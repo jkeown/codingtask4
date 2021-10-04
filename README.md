@@ -6,11 +6,11 @@ Thank you for considering me a prospective teammate.
 
 Desktop version
 
-![desktop version](/screenshots/desktop.png)
+![desktop version](desktop.png)
 
 Mobile version
 
-![mobile version](/screenshots/mobile.png)
+![mobile version](mobile.png)
 
 ### Links
 

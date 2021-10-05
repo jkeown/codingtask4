@@ -20,4 +20,3 @@ Mobile version
 ## Author
 
 - Website - [Jared Keown](https://www.jaredkeown.com)
-- Frontend Mentor - [@jkeown](https://www.frontendmentor.io/profile/jkeown)

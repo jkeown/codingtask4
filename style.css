@@ -81,6 +81,9 @@ main {
   padding: 0.7rem 0.5rem;
   margin-left: 1rem;
 }
+.icon-button:hover {
+  background: var(--brand-primary-color) !important;
+}
 
 .search {
   bottom: -55px;
@@ -115,7 +118,6 @@ hr {
 }
 .callout img {
   width: 100%;
-  /* object-fit: cover; */
 }
 .callout h3 {
   text-shadow: 1px 1px #000000;
@@ -133,7 +135,6 @@ hr {
   transition: transform 500ms ease-in-out;
 }
 .roll-effect .title {
-  /* font-size: 2rem; */
   line-height: 1.5rem;
   font-size: 1.3rem;
   font-weight: 900;
@@ -202,7 +203,6 @@ footer small {
   flex-wrap: wrap;
 }
 .quick-links a {
-  /* font-size: 0.5rem; */
   width: 40%;
   margin-bottom: 0.4rem;
   color: hsla(0, 0%, 100%, 0.8);
@@ -236,6 +236,9 @@ address * {
   font-size: 0.5rem;
   font-weight: 700;
   font-family: var(--playfair);
+}
+.reset:hover {
+  background: #ffffff;
 }
 /* MEDIA QUERIES **************************************/
 @media (min-width: 400px) {
